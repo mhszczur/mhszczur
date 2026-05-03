@@ -1,10 +1,3 @@
-# 👋 Hi, I’m Akasso73
-## 👋🇵🇱 Cześć, Jestem Akasso73
-
-#### ENG
-**Hi, I'm Michal and I'm a 17-year-old programmer from Poland. I specialize in Python. I was a graphic designer for ["Helply"](https://www.helplyapp.pl/).**
-#### PL
-**Cześć, jestem Michał i jestem 17-letnim programistą z Polski. Specjalizuję się w Pythonie. Byłem grafikiem dla [Helply](https://www.helplyapp.pl/).**
 
 ![Visitor](https://komarev.com/ghpvc/?username=Akasso73)
 ### Tools I use | Moje Narzędzia:
