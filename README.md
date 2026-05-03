@@ -1,4 +1,4 @@
-
+Dzień dobra
 ![Visitor](https://komarev.com/ghpvc/?username=Akasso73)
 ### Tools I use | Moje Narzędzia:
 ![VSCode](https://img.shields.io/badge/-VSCode-22AFF5?style=flat-square&logo=visual-studio-code&logoColor=white)
